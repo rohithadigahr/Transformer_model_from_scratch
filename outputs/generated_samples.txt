@@ -1,0 +1,31 @@
+TRANSFORMER MODEL - GENERATED TEXT SAMPLES
+============================================================
+
+Sample 1 - Low Temperature (0.5):
+----------------------------------------
+once upon a time onliten ce an deft acies the was llocked rom
+         mystery that challenged everything she thought she knew about criminal behavior
+         the only witnesses were a butler who claimed to have hea
+
+Sample 2 - Medium Temperature (0.8):
+----------------------------------------
+once upon a time onlites me on shore
+        I thought I would sail about a litle and see the watery part of the world
+        it is a way I have of driving offff the spleen and regulating the circulation
+        whe
+
+Sample 3 - High Temperature (1.2):
+----------------------------------------
+once upon a time onth8ghat mic must always be used
+        to trmout ind onleans by the othe knew that magic must always be used
+       to protect the innocent and defend against the daied fen the folly ckessespaced
+
+
+Sample 4 - Top-K Sampling (k=10):
+----------------------------------------
+once upon a time onliten
+        and challenges that tested human adaptability and ingenuity
+        
+         Dr Elena Rodriguez adjusted the controls of her neural interface as she
+         prepared to enter the vi
+
